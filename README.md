@@ -33,7 +33,9 @@ function portofolio(viewer) {
 1. Blackjack Game in React
 <br />
 <br />
+
 ***
+
 <br />
 <br />
 ## 1. React Counter Application
