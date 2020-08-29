@@ -1,2 +1,1 @@
-# Portofolio
-🖥️😀 Haris Hamzić - Javascript Portofolio 2020
+# Haris Hamzic - Portofolio 😀
