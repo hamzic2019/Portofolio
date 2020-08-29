@@ -31,6 +31,7 @@ function portofolio(viewer) {
 1. Airbnb Clone Design
 1. Pomodoro App
 1. Blackjack Game in React
+
 <br />
 <br />
 
@@ -38,4 +39,9 @@ function portofolio(viewer) {
 
 <br />
 <br />
+
 ## 1. React Counter Application
+
+React Counter Application is a perfect example of utilizing class components in React and building data binding through changing states
+If you want to see **Modern React Counter** App, you can do so at [React Counter App](https://hamzic2019.github.io/react-counter/)!
+![Snapshot of Modern React Counter App](https://raw.githubusercontent.com/hamzic2019/react-counter/master/react-counter-app.png)
