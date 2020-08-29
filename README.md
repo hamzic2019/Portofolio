@@ -14,7 +14,7 @@ Hi Guys, I am Haris Hamzic, Javascript Engineer and down here is a list of thing
 
 # Table of content
 1. React Counter Application
-1. [anchorName] {#anchorName}
+1. [anchorName](#anchorName)
 
 
 
