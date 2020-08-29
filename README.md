@@ -1,5 +1,14 @@
 # Haris Hamzic - Portofolio 😀
 
+*If you would love to know short facts about me*
+
+- [x] Hardworking
+- [x] Love Javascript
+- [x] Learning new things everyday
+- [x] 4AM Wake Time
+- [x] Forigen Language lover
+- [ ] Smoker ❌
+<br /> 
 
 ```javascript
 function portofolio(viewer) {
@@ -8,9 +17,10 @@ function portofolio(viewer) {
   }
 }
 ```
+<br /> 
 Hi Guys, I am Haris Hamzic, Javascript Engineer and down here is a list of things that I've built in my free time, be free to look around and try it yourself.
 
-
+<br /> 
 
 # Table of content
 1. React Counter Application
