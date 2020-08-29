@@ -42,7 +42,7 @@ function portofolio(viewer) {
 
 ## 1. React Counter Application
 
-React Counter Application is a perfect example of utilizing class components in React and building data binding through changing states
+React Counter Application is a perfect example of utilizing class components in React and building data binding through changing states. <br/>
 If you want to see **Modern React Counter** App, you can do so at [React Counter App](https://hamzic2019.github.io/react-counter/)! <br/>
 
 ![Snapshot of Modern React Counter App](https://raw.githubusercontent.com/hamzic2019/react-counter/master/react-counter-app.png)
