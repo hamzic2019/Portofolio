@@ -3,13 +3,13 @@
 Hi Guys, I am *Haris Hamzic*, Javascript Engineer and down here is a list of things that I've built in my free time, be free to look around and try it yourself.<br /> <br />
 *If you would love to know short facts about me*
 
-- [x] Hardworking
-- [x] Love Javascript
-- [x] Learning new things everyday
-- [x] 4AM Wake Time
-- [x] Forigen Language lover
-- [ ] Smoker ❌
-<br /> 
+✅ Hardworking<br />
+✅ Love Javascript<br />
+✅ Learning new things everyday<br />
+✅ 4AM Wake Time<br />
+✅ Forigen Language lover<br />
+❌ Smoker<br />
+<br /> <br />
 
 ```javascript
 function portofolio(viewer) {
