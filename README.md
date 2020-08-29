@@ -8,7 +8,7 @@ function portofolio(viewer) {
   }
 }
 ```
-Hi Guys, I am Haris Hamzic, Javascript Engineer and down here is a list of things that I've build in my free time, be free to look around and try it yourself.
+Hi Guys, I am Haris Hamzic, Javascript Engineer and down here is a list of things that I've built in my free time, be free to look around and try it yourself.
 
 
 
