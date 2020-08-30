@@ -55,3 +55,12 @@ Chat Room aplication is perfect example of utilizing realtime firebase functions
 If you want to see live version of **Modern Chat Room** App, you can do so at [Chat Room](https://hamzic2019.github.io/chat-room/)! <br/>
 
 ![Snapshot of Modern Chat App Solution](https://raw.githubusercontent.com/hamzic2019/chat-room/master/assets/Screenshot.png)
+
+<br /> <br /> <br />
+
+## 3. Task Manager w Firebase
+
+Task Manager with React & firebase implementation!<br/>
+If you want to see live version of **Task Manager** App, you can do so at [Task Manager](https://hamzic2019.github.io/task-manager-firebase/)! <br/>
+
+![Snapshot of Task Manager](https://image.prntscr.com/image/Ag2vCSDOT6uLmgylHlyo6A.png)
