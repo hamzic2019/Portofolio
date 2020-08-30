@@ -49,7 +49,7 @@ If you want to see live version of **Modern React Counter** App, you can do so a
 
 <br /> <br /> <br />
 
-## 1. Chat Room Application
+## 2. Chat Room Application
 
 Chat Room aplication is perfect example of utilizing realtime firebase functions with vanila javascript  <br/>
 If you want to see live version of **Modern Chat Room** App, you can do so at [Chat Room](https://hamzic2019.github.io/chat-room/)! <br/>
