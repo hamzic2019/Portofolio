@@ -64,3 +64,12 @@ Task Manager with React & firebase implementation!<br/>
 If you want to see live version of **Task Manager** App, you can do so at [Task Manager](https://hamzic2019.github.io/task-manager-firebase/)! <br/>
 
 ![Snapshot of Task Manager](https://image.prntscr.com/image/Ag2vCSDOT6uLmgylHlyo6A.png)
+
+<br /> <br /> <br />
+
+## 4. Modern Weather Application
+
+Modern Weather Application with Vanilla JS and Fetching data from Weather API<br/>
+If you want to see **Modern Weather** App Solution, you can do so at [Weather App Solution](https://hamzic2019.github.io/modern-weather-app/)
+![Snapshot of Modern Weather App Solution](https://github.com/hamzic2019/modern-weather-app/blob/master/assets/Screenshot.png?raw=true)
+
