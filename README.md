@@ -73,3 +73,21 @@ Modern Weather Application with Vanilla JS and Fetching data from Weather API<br
 If you want to see **Modern Weather** App Solution, you can do so at [Weather App Solution](https://hamzic2019.github.io/modern-weather-app/)
 ![Snapshot of Modern Weather App Solution](https://github.com/hamzic2019/modern-weather-app/blob/master/assets/Screenshot.png?raw=true)
 
+<br /> <br /> <br />
+
+## 5. Todo Application
+
+Modern Todo Application with Vanilla JS and Local Storage API<br/>
+If you want to see **Task Manager** App, you can do so at [Task Manager App](https://hamzic2019.github.io/todo-design/)
+![Snapshot of Task Manager App](https://image.prntscr.com/image/cGWC0i2CTtaNN55mNSqTvw.png)
+
+<br /> <br /> <br />
+
+## 6. Simple Quiz Application
+
+Simple Quiz Application with Vanilla JS<br/>
+If you want to see **Simple Quiz** App, you can do so at [Quiz App](https://hamzic2019.github.io/quiz-app/)
+![Snapshot of Quiz App](https://image.prntscr.com/image/5yuK4ejzSFiwtmEF8VASiw.png)
+
+
+
