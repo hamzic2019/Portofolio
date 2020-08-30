@@ -46,3 +46,12 @@ React Counter Application is a perfect example of utilizing class components in 
 If you want to see live version of **Modern React Counter** App, you can do so at [React Counter App](https://hamzic2019.github.io/react-counter/)! <br/>
 
 ![Snapshot of Modern React Counter App](https://raw.githubusercontent.com/hamzic2019/react-counter/master/react-counter-app.png)
+
+<br /> <br /> <br />
+
+## 1. Chat Room Application
+
+Chat Room aplication is perfect example of utilizing realtime firebase functions with vanila javascript  <br/>
+If you want to see live version of **Modern Chat Room** App, you can do so at [Chat Room](https://hamzic2019.github.io/chat-room/)! <br/>
+
+![Snapshot of Modern Chat App Solution](https://raw.githubusercontent.com/hamzic2019/chat-room/master/assets/Screenshot.png)
