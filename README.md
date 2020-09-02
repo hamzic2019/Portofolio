@@ -29,8 +29,6 @@ function portofolio(viewer) {
 1. Todo 
 1. Quiz 
 1. Airbnb Clone Design
-1. Pomodoro App
-1. Blackjack Game in React
 
 <br />
 <br />
