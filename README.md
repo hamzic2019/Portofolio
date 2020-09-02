@@ -1,4 +1,4 @@
-# Haris Hamzic - Portofolio 😀
+# Haris Hamzic - Portofolio 2020 😀
 
 Hi Guys, I am *Haris Hamzic*, Javascript Engineer and down here is a list of things that I've built in my free time, be free to look around and try it yourself.<br /> <br />
 *If you would love to know short facts about me*
