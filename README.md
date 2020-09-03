@@ -8,7 +8,6 @@ Hi Guys, I am *Haris Hamzic*, Javascript Engineer and down here is a list of thi
 ✅ Learning new things everyday<br />
 ✅ 4AM Wake Time<br />
 ✅ Forigen Language lover<br />
-❌ Smoker<br />
 <br /> <br />
 
 ```javascript
