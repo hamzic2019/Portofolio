@@ -1,4 +1,4 @@
-# Haris Hamzic - Portofolio 2020 😀
+# Haris Hamzic - Portofolio 2022 😀
 
 > Notice: Unfortunately, many git repositories have been destroyed over time, be patient, an updated version of the portfolio with new applications that I have worked on in the last 2 years will arrive soon.
 
