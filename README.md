@@ -41,7 +41,7 @@ function portofolio(viewer) {
 
 ## 1. Task Manager Application - MERN Stack
 
-MERN Task Manager is a perfect example of utilizing class components in React and building data binding through changing states. <br/>
+MERN Task Manager is a perfect example of utilizing functional components in React and building data binding through changing states. <br/>
 If you want to see live version of **MERN Task Manager** App, you can do so at [MERN Task Manager](https://superb-biscuit-289d7d.netlify.app/)! <br/>
 
 ![Snapshot of Task Manager App](https://github.com/hamzic2019/frontend/blob/master/screenshot1.png?raw=true)
