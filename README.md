@@ -23,13 +23,7 @@ function portofolio(viewer) {
 <br /> 
 
 # Table of content
-1. React Counter Application
-1. Chat Room
-1. Task Manager w Firebase
-1. Modern Weather Application
-1. Todo 
-1. Quiz 
-1. Airbnb Clone Design
+1. Task Manager
 
 <br />
 <br />
